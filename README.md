@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Deepak Maram. 
 
-I am a researcher interested in applied cryptography, currently working at [Mysten Labs](https://mystenlabs.com/). I have completed my PhD at [Cornell Tech](https://tech.cornell.edu/) working with [Ari Juels](https://www.arijuels.com/).
+I am a researcher interested in applied cryptography, currently working at [Mysten Labs](https://mystenlabs.com/). Prior to that, I have completed my PhD at [Cornell Tech](https://tech.cornell.edu/) working with [Ari Juels](https://www.arijuels.com/).
 
 <!--
 **mskd12/mskd12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
